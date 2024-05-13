@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <pedido>
   <cliente>Pepe Viyuela</cliente>
+  <observaciones>Envio dentro del porton</observaciones>
   <fecha>2024-05-11</fecha>
   <medio_envio>UPS</medio_envio>
 </pedido>
