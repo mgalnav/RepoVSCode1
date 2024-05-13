@@ -3,6 +3,4 @@
   <cliente>Pepe Viyuela</cliente>
   <fecha>2024-05-11</fecha>
   <medio_envio>UPS</medio_envio>
-  <direccion_envio>01 casa</direccion_envio>
-  <plazo_entrega>10 días</plazo_entrega>
 </pedido>
